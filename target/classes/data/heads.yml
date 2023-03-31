@@ -1,0 +1,18 @@
+heads:
+  ZOMBIE:
+    ==: org.bukkit.inventory.ItemStack
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: Zombie
+      owner: MHF_Zombie
+  CREEPER:
+    ==: org.bukkit.inventory.ItemStack
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: Creeper
+      owner: MHF_Creeper
+  # Add more ItemStacks for other EntityTypes

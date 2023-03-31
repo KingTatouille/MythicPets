@@ -1,0 +1,11 @@
+hillwalk\fr\petrpg\listener\NaturalSpawnManager.class
+hillwalk\fr\petrpg\manager\PetManager.class
+hillwalk\fr\petrpg\config\Config.class
+hillwalk\fr\petrpg\pets\CustomPet.class
+hillwalk\fr\petrpg\commands\PetListCommand.class
+hillwalk\fr\petrpg\commands\SpawnMobCommand.class
+hillwalk\fr\petrpg\enums\ActionType.class
+hillwalk\fr\petrpg\pets\PlayerPet.class
+hillwalk\fr\petrpg\PetRPG.class
+hillwalk\fr\petrpg\gui\PetInfoGUI.class
+hillwalk\fr\petrpg\listener\CustomTamer.class

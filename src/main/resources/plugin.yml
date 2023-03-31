@@ -1,0 +1,13 @@
+name: PetRPG
+version: '${project.version}'
+main: hillwalk.fr.petrpg.PetRPG
+api-version: 1.19
+author: HillWalk
+
+commands:
+  spawnmob:
+    description: Spawns a custom mob at the player's location.
+    usage: /spawnmob <EntityType> <level>
+  pets:
+    description: Pet inventory
+    usage: /pet

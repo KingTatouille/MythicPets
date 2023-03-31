@@ -1,0 +1,13 @@
+pets:
+  custom_wolf:
+    entityType: WOLF
+    name: Custom Wolf
+    material: APPLE
+    tamable: true
+    health: 20
+    damage: 5
+    speed: 0.1
+    actionType: MELEE
+    spawnBiomes:
+      - FOREST
+      - TAIGA

@@ -1,0 +1,23 @@
+levelUp: "Your pet %name%'s is now %level%!"
+pet-tamed: "&aYou have tamed a %pet_name%!"
+pet-level-up: "&eYour %pet_name% has reached level %level%!"
+tamed: "You have tamed %name%!"
+inventory:
+  petListTitle: '&aYour Pets'
+  petInfoTitle: '&bPet Info'
+  changePetNameTitle: '&9Change Pet Name'
+pet:
+  summoned: '&aYou have summoned your %pet_name% pet!'
+  alreadyTamedByYou: "This pet is already tamed by you"
+  alreadyTamedByAnother: "This pet is already tamed by another player."
+  alreadyPet: "You have already a pet who follow you!"
+  removed: '&cYou have removed your %pet_name% pet.'
+  notTameable: '&cThis entity is not tameable.'
+  petNameChanged: '&aYour pet''s name has been changed to: &b'
+  invalidPetName: '&cThe entered name is invalid. Please enter a name between 1 and 16 characters.'
+  informations:
+    level: "&fLevel:&6"
+    health: "&fHealth:&6"
+    damage: "&fDamage:&6"
+    speed: "&fSpeed:&6"
+    actiontype: "&fAction Type:&6"

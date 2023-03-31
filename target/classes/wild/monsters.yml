@@ -1,0 +1,13 @@
+pets:
+  custom_zombie:
+    entityType: ZOMBIE
+    material: APPLE
+    name: Custom Zombie
+    tamable: false
+    health: 20
+    damage: 5
+    speed: 0.1
+    actionType: MELEE
+    spawnBiomes:
+      - PLAINS
+      - SWAMP

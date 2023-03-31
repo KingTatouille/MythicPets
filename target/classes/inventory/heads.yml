@@ -1,0 +1,167 @@
+ZOMBIE:
+  material: PLAYER_HEAD
+  skullOwner: Zombie
+
+SKELETON:
+  material: PLAYER_HEAD
+  skullOwner: Skeleton
+
+CREEPER:
+  material: PLAYER_HEAD
+  skullOwner: Creeper
+
+WITHER_SKELETON:
+  material: PLAYER_HEAD
+  skullOwner: WITHER_SKELETON
+
+ENDERMAN:
+  material: PLAYER_HEAD
+  skullOwner: Enderman
+
+BLAZE:
+  material: PLAYER_HEAD
+  skullOwner: Blaze
+
+CAVE_SPIDER:
+  material: PLAYER_HEAD
+  skullOwner: CaveSpider
+
+CHICKEN:
+  material: PLAYER_HEAD
+  skullOwner: Chicken
+
+COW:
+  material: PLAYER_HEAD
+  skullOwner: Cow
+
+DOLPHIN:
+  material: PLAYER_HEAD
+  skullOwner: Dolphin
+
+DROWNED:
+  material: PLAYER_HEAD
+  skullOwner: Drowned
+
+ELDER_GUARDIAN:
+  material: PLAYER_HEAD
+  skullOwner: ElderGuardian
+
+ENDER_DRAGON:
+  material: PLAYER_HEAD
+  skullOwner: EnderDragon
+
+EVOKER:
+  material: PLAYER_HEAD
+  skullOwner: Evoker
+
+GHAST:
+  material: PLAYER_HEAD
+  skullOwner: Ghast
+
+GUARDIAN:
+  material: PLAYER_HEAD
+  skullOwner: Guardian
+
+HOGLIN:
+  material: PLAYER_HEAD
+  skullOwner: Hoglin
+
+HORSE:
+  material: PLAYER_HEAD
+  skullOwner: Horse
+
+HUSK:
+  material: PLAYER_HEAD
+  skullOwner: Husk
+
+LLAMA:
+  material: PLAYER_HEAD
+  skullOwner: Llama
+
+MAGMA_CUBE:
+  material: PLAYER_HEAD
+  skullOwner: MagmaCube
+
+MOOSHROOM:
+  material: PLAYER_HEAD
+  skullOwner: MushroomCow
+
+OCELOT:
+  material: PLAYER_HEAD
+  skullOwner: Ocelot
+
+PANDA:
+  material: PLAYER_HEAD
+  skullOwner: Panda
+
+PARROT:
+  material: PLAYER_HEAD
+  skullOwner: Parrot
+
+PIG:
+  material: PLAYER_HEAD
+  skullOwner: Pig
+
+PIGLIN:
+  material: PLAYER_HEAD
+  skullOwner: Piglin
+
+PIGLIN_BRUTE:
+  material: PLAYER_HEAD
+  skullOwner: PiglinBrute
+
+PILLAGER:
+  material: PLAYER_HEAD
+  skullOwner: Pillager
+
+POLAR_BEAR:
+  material: PLAYER_HEAD
+  skullOwner: PolarBear
+
+RABBIT:
+  material: PLAYER_HEAD
+  skullOwner: Rabbit
+
+RAVAGER:
+  material: PLAYER_HEAD
+  skullOwner: Ravager
+
+SHULKER:
+  material: PLAYER_HEAD
+  skullOwner: Shulker
+
+SILVERFISH:
+  material: PLAYER_HEAD
+  skullOwner: Silverfish
+
+SKELETON_HORSE:
+  material: PLAYER_HEAD
+  skullOwner: SkeletonHorse
+
+SLIME:
+  material: PLAYER_HEAD
+  skullOwner: Slime
+
+SNOWMAN:
+  material: PLAYER_HEAD
+  skullOwner: Snowman
+
+SPIDER:
+  material: PLAYER_HEAD
+  skullOwner: Spider
+
+SQUID:
+  material: PLAYER_HEAD
+  skullOwner: Squid
+
+STRAY:
+  material: PLAYER_HEAD
+  skullOwner: Stray
+
+TRADER_LLAMA:
+  material: PLAYER_HEAD
+  skullOwner: TraderLlama
+
+TROPICAL_FISH:
+  material: PLAYER_HEAD
+  skullOwner: Tropical
